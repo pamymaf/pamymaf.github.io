@@ -34,7 +34,7 @@ window.Puzzle = class {
       FAT_STARTPOINTS: false,
 
       // If true, custom mechanics are displayed (and validated) in this puzzle.
-      CUSTOM_MECHANICS: false,
+      CUSTOM_MECHANICS: true,
       
       // If true, polyominos may be placed partially off of the grid as an intermediate solution step.
       // OUT_OF_BOUNDS_POLY: false,
